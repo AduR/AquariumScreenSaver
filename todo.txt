@@ -1,10 +1,10 @@
+To do list :
 
 t_surface -> attribut
 
-to do :
-algues
-poissons
+more seaweed
+more fishes
 loch ness' monster
-requin
+finish shark
 
-+ couleurs
+better colors (using BRIGHT / DIM)
